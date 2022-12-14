@@ -1,1 +1,1 @@
-# odin-recipes2
+In this project. I'm going to be building a basic website with HTML and CSS.
